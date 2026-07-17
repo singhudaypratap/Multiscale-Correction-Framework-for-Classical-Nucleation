@@ -81,7 +81,7 @@ The notebook generates all 6 figures at 600 DPI into `figures_nano_trends/` and 
 
 If you use this code or framework, please cite:
 
-> U.P. Singh, M. Chandra, B. Kumari, E.A. Siddiqui, "Multiscale Correction Framework for Classical Nucleation Theory: Curvature-Dependent Surface Tension, Cooperative Polarization, and Electric Field Effects in Water Nanocluster Formation," *Journal of Molecular Liquids* (2026). Submitted.
+> U.P. Singh, B. Kumari, M. Chandra, E.A. Siddiqui, "Multiscale Correction Framework for Classical Nucleation Theory: Curvature-Dependent Surface Tension, Cooperative Polarization, and Electric Field Effects in Water Nanocluster Formation," *Journal of Molecular Liquids* (2026). Submitted.
 
 ## License
 
