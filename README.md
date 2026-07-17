@@ -2,7 +2,7 @@
 
 Curvature-dependent surface tension, cooperative polarization, and electric field effects in water nanocluster formation.
 
-**Authors:** Uday Pratap Singh\*, Mukesh Chandra, Bersha Kumari, Ebtasam Ahmad Siddiqui
+**Authors:** Uday Pratap Singh\*, Bersha Kumari, Mukesh Chandra, Ebtasam Ahmad Siddiqui
 
 **Target journal:** Journal of Molecular Liquids (Elsevier)
 
