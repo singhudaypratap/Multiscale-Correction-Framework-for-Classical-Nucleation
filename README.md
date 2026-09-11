@@ -19,7 +19,7 @@ $$
 and the corresponding curvature-corrected CNT barrier is
 
 $$
-\Delta G^*=\frac{16\pi\sigma(r^*)^3}{3\Delta G_{v,\mathrm{eff}}^2}
+\Delta G^=\frac{16\pi\sigma(r^)^3}{3\Delta G_{v,\mathrm{eff}}^2}
 $$
 
 where the effective volumetric driving force includes the modelled polarization and electric-field contribution.
